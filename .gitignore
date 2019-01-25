@@ -1,0 +1,5 @@
+# Covers IntelliJ IDEA files
+.idea/
+*.iws
+*.iml
+

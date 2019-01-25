@@ -2,4 +2,4 @@
 
 ## Examples
 
-[Maven - Parent Pom](./example-maven-parent/)
+[Maven - Parent Pom](https://co-farkas.github.io/example-maven-parent/)

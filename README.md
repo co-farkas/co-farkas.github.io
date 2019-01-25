@@ -1,3 +1,3 @@
 # Examples
 
-[Maven - Parent Pom](https://co-farkas.github.io/example-maven-parent/)
+[Maven - Multi-Module Project](https://co-farkas.github.io/example-maven-multi-module-project/)

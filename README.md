@@ -1,3 +1,7 @@
-# Examples
+## Maven
 
-[Maven - Multi-Module Project](https://co-farkas.github.io/example-maven-multi-module-project/)
+### Archetypes
+
+* [Simple Project](https://co-farkas.github.io/co-farkas-maven-archetype-simple/)
+
+  The good old Maven Simple Project Archetype on steroids.
